@@ -46,7 +46,7 @@
 
 6. Запустить автотесты через команду в терминале:
 
-`.\gradlew clean test "-Ddb.url=jdbc:postgresql://192.169.99.100:5432/app`
+`.\gradlew clean test "-Ddb.url=jdbc:postgresql://192.168.99.100:5432/app`
 
 ## Отчётные документы
 
